@@ -299,10 +299,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>A Simple and Comprehensive Vulnerability Scanner for Container Images, Git Repositories and Filesystems. Suitable for CI</td>
     </tr>
     <tr>
-    <tr>
-        <td><a href="https://github.com/ASCIT31/Dark-Moon">ASCIT31/Dark-Moon</a></td>
-        <td>Open-source (GPL-3.0) autonomous AI penetration testing platform and MCP host; per-technology offensive sub-agents plan and run full engagements across web, API, Active Directory and Kubernetes with an evidence trail per finding.</td>
-    </tr>
         <td><a href="https://github.com/ARPSyndicate/kenzer">ARPSyndicate/kenzer</a></td>
         <td>automated web assets enumeration & scanning</td>
     </tr>
@@ -538,10 +534,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension">RhinoSecurityLabs/IPRotate_Burp_Extension</a></td>
         <td>Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/RhinoSecurityLabs/SleuthQL">RhinoSecurityLabs/SleuthQL</a></td>
-        <td>Python3 Burp History parsing tool to discover potential SQL injection points. To be used in tandem with SQLmap.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/rpgeeganage/audit-node-modules-with-yara">rpgeeganage/audit-node-modules-with-yara</a></td>
