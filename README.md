@@ -629,6 +629,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td><b>Description</b></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/1rhino2/fnprint">1rhino2/fnprint</a></td>
+        <td>Behavioral function fingerprinting; names functions in stripped ELF binaries and patch-diffs vuln vs patched builds by microexecution.</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/acsdavid97/DotNetHooker">acsdavid97/DotNetHooker</a></td>
         <td>API tracing and argument dumping to ease reverse engineering .NET malware.</td>
     </tr>
