@@ -973,10 +973,6 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Extract labels from IDA, Ghidra, Binary Ninja, and Relyze files and export x64dbg database. Including radare2 main address.</td>
     </tr>
     <tr>
-        <td><a href="https://codisec.com/veles/">Veles</a></td>
-        <td>New open source tool for binary data analysis</td>
-    </tr>
-    <tr>
         <td><a href="https://salmanarif.bitbucket.io/visual/index.html">VisUAL</a></td>
         <td>A highly visual ARM emulator</td>
     </tr>
@@ -1604,10 +1600,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://github.com/CrowdStrike/SuperMem">CrowdStrike/SuperMem</a></td>
         <td>A python script developed to process Windows memory images based on triage type.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/cryps1s/DARKSURGEON">cryps1s/DARKSURGEON</a></td>
-        <td>DARKSURGEON is a Windows packer project to empower incident response, digital forensics, malware analysis, and network defense.</td>
     </tr>
     <tr>
         <td><a href="https://github.com/cyb3rfox/Aurora-Incident-Response">cyb3rfox/Aurora-Incident-Response</a></td>
@@ -3145,10 +3137,6 @@ This repository is created as an online bookmark for useful links, resources and
     <tr>
         <td><a href="https://www.cellmapper.net">CellMapper</a></td>
         <td>Cellular Coverage and Tower Map</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://crt.sh/">Certificate Search</a></td>
-        <td>crt.sh | Certificate</td>
     </tr>
     <tr>
         <td><a href="https://start.me/p/EL84Km/cse-utopia">CSE Utopia</a></td>
