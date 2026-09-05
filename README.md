@@ -512,6 +512,10 @@ This repository is created as an online bookmark for useful links, resources and
         <td>Source Code Search Engine</td>
     </tr>
     <tr>
+        <td><a href="https://www.searchwebcode.com/">SearchWebCode</a></td>
+        <td>Source Code Search Engine (exact-string + regex over 129M homepages)</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/pumasecurity/puma-scan">pumasecurity/puma-scan</a></td>
         <td>Puma Scan is a software security Visual Studio extension that provides real time, continuous source code analysis as development teams write code. Vulnerabilities are immediately displayed in the development environment as spell check and compiler warnings, preventing security bugs from entering your applications.</td>
     </tr>
